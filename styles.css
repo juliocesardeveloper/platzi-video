@@ -2,6 +2,7 @@
 * {
   margin: 0;
   padding: 0;
+  position: relative;
 }
 html {
   background: linear-gradient(#55c1ff, #715aff);
@@ -535,9 +536,6 @@ body {
   }
   .text {
     margin-top: 20px;
-  }
-  .hingebox, .flipbox {
-    display: none;
   }
 }
 
